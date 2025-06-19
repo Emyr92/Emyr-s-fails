@@ -27,9 +27,7 @@ int main (void)
         printf("vous ete majeur !\n");
     else
         printf("vous ete trop jeune pour utilisé ce service, revenez plus tard ! \n");
-        
-    
-    
+   
     return 0;
 }
 
